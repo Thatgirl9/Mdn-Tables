@@ -9,13 +9,13 @@ body {
   background-color: #fff;
 }
 
-div {
+/* div {
   overflow-x: scroll;
-}
+} */
 
 h1 {
   font-weight: 700;
-  margin: 0.8em 0.4em;
+  margin: 0.5em 0.3em;
 }
 
 table {
@@ -23,6 +23,7 @@ table {
   border-collapse: collapse;
   border: 2px solid rgb(200, 200, 200);
   letter-spacing: 0.8px;
+  margin: 0 0.6em;
 }
 
 caption {
